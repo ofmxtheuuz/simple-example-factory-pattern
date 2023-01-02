@@ -8,6 +8,7 @@ function AddPerson(email, username){
 
 let persons = []
 
+// add new person (with factory)
 persons.push(
     AddPerson("matheus@gmail.com", "Matheus")
 )
