@@ -1,3 +1,4 @@
+// factory add model person
 function AddPerson(email, username){
     return {
         email: email,
